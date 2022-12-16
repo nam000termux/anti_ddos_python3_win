@@ -3,7 +3,6 @@ Best tool Anti-DDOS on Windows using Python3. Forward a port fake for check DDOS
 
 ## Required
 - OS: Windows 7 or up (32/64)
-- Python: work only on v3.8.10
 - RAM: 1GB or up
 - Storage: 10GB or up
 
