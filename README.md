@@ -8,14 +8,13 @@ Best tool Anti-DDOS on Windows using Python3. Forward a port fake for check DDOS
 - Storage: 10GB or up
 
 ## How to use?
-1. Download this repo [here](https://github.com/KhanhNguyen9872/anti_ddos_python3_win/archive/refs/heads/main.zip)
+1. Download this repo [here](https://github.com/nam000termux/anti_ddos_python3_win/archive/refs/heads/main.zip)
 2. Run file anti.bat
-```bash
-python anti.py https://fb.me/khanh10a1
-```
+
 `Note: You can change settings from config.py file`
 
 ## Issue
 - You can create a issue [here](https://github.com/KhanhNguyen9872/anti_ddos_python3_win/issues)
 
 # Powered by KhanhNguyen9872
+# Fork by nam000termux
